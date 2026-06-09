@@ -1,0 +1,43 @@
+[
+  { "name": "Dr. Kavita Rao", "specialty": "Dermatology", "city": "Mangalore - Manipal Hospital", "coordinates": [12.9141, 74.8560], "contact": "+91-824-2201002" },
+  { "name": "Dr. Sneha Shetty", "specialty": "Dermatology", "city": "Mangalore - KMC Hospital", "coordinates": [12.9141, 74.8560], "contact": "+91-824-2201006" },
+  { "name": "Dr. Arun Kumar", "specialty": "General Medicine", "city": "Mangalore - A.J. Hospital", "coordinates": [12.9141, 74.8560], "contact": "+91-824-2201005" },
+  { "name": "Dr. Pramod Kumar", "specialty": "Dermatology", "city": "Mangalore - Manipal Hospital", "coordinates": [12.9150, 74.8570], "contact": "+91-824-2201101" },
+  { "name": "Dr. Vindhya A. Pai", "specialty": "Dermatology", "city": "Mangalore - KMC Hospital", "coordinates": [12.9160, 74.8580], "contact": "+91-824-2201102" },
+  { "name": "Dr. Akshay Pai", "specialty": "General Medicine", "city": "Moodbidri - Moodbidri Hospital", "coordinates": [13.0656, 74.9951], "contact": "+91-8258-240205" },
+  { "name": "Dr. Mohan Shetty", "specialty": "General Medicine", "city": "Udupi - Udupi Hospital", "coordinates": [13.3409, 74.7421], "contact": "+91-820-2531005" },
+  { "name": "Dr. Arun Bhat", "specialty": "General Medicine", "city": "Karkala - Karkala Hospital", "coordinates": [13.2145, 74.9942], "contact": "+91-8258-250302" },
+  { "name": "Dr. Ramesh Nayak", "specialty": "General Medicine", "city": "Mangalore - A.J. Hospital", "coordinates": [12.9145, 74.8565], "contact": "+91-824-2201103" },
+  { "name": "Dr. Priya Fernandes", "specialty": "Dermatology", "city": "Mangalore - Manipal Hospital", "coordinates": [12.9142, 74.8566], "contact": "+91-824-2201104" },
+  
+  { "name": "Dr. Shilpa Prabhu", "specialty": "Dermatology", "city": "Udupi - Udupi Hospital", "coordinates": [13.3409, 74.7421], "contact": "+91-820-2531002" },
+  { "name": "Dr. Nithin D'Souza", "specialty": "General Medicine", "city": "Mangalore - A.J. Hospital", "coordinates": [12.9143, 74.8567], "contact": "+91-824-2201105" },
+  { "name": "Dr. Geetha Nayak", "specialty": "General Medicine", "city": "Mangalore - A.J. Hospital", "coordinates": [12.9144, 74.8568], "contact": "+91-824-2201106" },
+  { "name": "Dr. Snehalatha Pai", "specialty": "Dermatology", "city": "Karkala - Karkala Hospital", "coordinates": [13.2145, 74.9942], "contact": "+91-8258-250303" },
+  { "name": "Dr. Raghavendra Shetty", "specialty": "General Medicine", "city": "Karkala - Karkala Hospital", "coordinates": [13.2146, 74.9943], "contact": "+91-8258-250304" },
+  { "name": "Dr. Rashmi Shenoy", "specialty": "Dermatology", "city": "Moodbidri - Moodbidri Hospital", "coordinates": [13.0656, 74.9951], "contact": "+91-8258-240206" },
+  { "name": "Dr. Harish Rao", "specialty": "General Medicine", "city": "Moodbidri - Moodbidri Hospital", "coordinates": [13.0657, 74.9952], "contact": "+91-8258-240207" },
+  { "name": "Dr. Anita Rao", "specialty": "Dermatology", "city": "Mangalore - Manipal Hospital", "coordinates": [12.9145, 74.8569], "contact": "+91-824-2201107" },
+  { "name": "Dr. Varun Shetty", "specialty": "General Medicine", "city": "Mangalore - A.J. Hospital", "coordinates": [12.9146, 74.8570], "contact": "+91-824-2201108" },
+  
+  { "name": "Dr. Deepa Nayak", "specialty": "Dermatology", "city": "Udupi - Udupi Hospital", "coordinates": [13.3408, 74.7420], "contact": "+91-820-2531003" },
+  { "name": "Dr. Kiran Kumar", "specialty": "General Medicine", "city": "Mangalore - A.J. Hospital", "coordinates": [12.9147, 74.8571], "contact": "+91-824-2201109" },
+  { "name": "Dr. Shashank Nayak", "specialty": "Dermatology", "city": "Moodbidri - Moodbidri Hospital", "coordinates": [13.0658, 74.9953], "contact": "+91-8258-240208" },
+  { "name": "Dr. Mohan Shetty", "specialty": "General Medicine", "city": "Udupi - Udupi Hospital", "coordinates": [13.3409, 74.7421], "contact": "+91-820-2531004" },
+  { "name": "Dr. Pooja Bhat", "specialty": "Dermatology", "city": "Moodbidri - Moodbidri Hospital", "coordinates": [13.0659, 74.9954], "contact": "+91-8258-240209" },
+  { "name": "Dr. Ramesh Bhat", "specialty": "General Medicine", "city": "Mangalore - A.J. Hospital", "coordinates": [12.9148, 74.8572], "contact": "+91-824-2201110" },
+  
+  { "name": "Dr. Latha D'Souza", "specialty": "Dermatology", "city": "Mangalore - Manipal Hospital", "coordinates": [12.9149, 74.8573], "contact": "+91-824-2201111" },
+  { "name": "Dr. Akshay Pai", "specialty": "General Medicine", "city": "Moodbidri - Moodbidri Hospital", "coordinates": [13.0660, 74.9955], "contact": "+91-8258-240210" },
+  { "name": "Dr. Shilpa Shenoy", "specialty": "Dermatology", "city": "Udupi - Udupi Hospital", "coordinates": [13.3410, 74.7422], "contact": "+91-820-2531005" },
+  { "name": "Dr. Nithin D'Souza", "specialty": "General Medicine", "city": "Mangalore - A.J. Hospital", "coordinates": [12.9150, 74.8574], "contact": "+91-824-2201112" },
+  { "name": "Dr. Geetha Nayak", "specialty": "Dermatology", "city": "Karkala - Karkala Hospital", "coordinates": [13.2147, 74.9944], "contact": "+91-8258-250305" },
+  { "name": "Dr. Varun Shetty", "specialty": "General Medicine", "city": "Mangalore - A.J. Hospital", "coordinates": [12.9151, 74.8575], "contact": "+91-824-2201113" },
+  
+  { "name": "Dr. Rashmi Shenoy", "specialty": "Dermatology", "city": "Moodbidri - Moodbidri Hospital", "coordinates": [13.0661, 74.9956], "contact": "+91-8258-240211" },
+  { "name": "Dr. Mohan Shetty", "specialty": "General Medicine", "city": "Udupi - Udupi Hospital", "coordinates": [13.3411, 74.7423], "contact": "+91-820-2531006" },
+  { "name": "Dr. Pramod Kumar", "specialty": "Dermatology", "city": "Mangalore - Manipal Hospital", "coordinates": [12.9152, 74.8576], "contact": "+91-824-2201114" },
+  { "name": "Dr. Akshay Pai", "specialty": "General Medicine", "city": "Moodbidri - Moodbidri Hospital", "coordinates": [13.0662, 74.9957], "contact": "+91-8258-240212" },
+  { "name": "Dr. Vindhya A. Pai", "specialty": "Dermatology", "city": "Mangalore - Manipal Hospital", "coordinates": [12.9153, 74.8577], "contact": "+91-824-2201115" },
+  { "name": "Dr. Arun Bhat", "specialty": "General Medicine", "city": "Karkala - Karkala Hospital", "coordinates": [13.2148, 74.9945], "contact": "+91-8258-250306" }
+]
