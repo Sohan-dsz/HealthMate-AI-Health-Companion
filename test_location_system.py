@@ -47,7 +47,7 @@ def test_recommendation_system():
     location_info = location_service.get_location_info()
     print(f"Current location info: {location_info}")
     
-    # Test 4: Test with different specialties
+    # Test 4: sssTest with different specialties
     print("\n4. Testing different specialties:")
     specialties_to_test = ["skin", "child", "bone"]
     
