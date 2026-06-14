@@ -8,7 +8,6 @@
 ![License](https://img.shields.io/badge/License-MIT-yellow)
 
 ## 📌 Overview
-
 **HealthMate: Your AI Health Companion** is an AI-powered multimodal healthcare assistant designed to provide preliminary health guidance through text, voice, and image inputs.
 
 The system leverages advanced AI models to analyze symptoms, generate contextual medical guidance, recommend nearby specialists, and provide voice-based responses to improve accessibility and user experience.
